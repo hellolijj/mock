@@ -8,3 +8,7 @@ dataV_front 项目：https://github.com/hellolijj/dataV_front
 ### 说明
 
 项目使用 [ThinkPHP3.2](http://www.thinkphp.cn/) 框架
+
+### 项目停止维护
+
+对应的 代码更新至 https://github.com/hellolijj/{$project}/mock
