@@ -1,0 +1,9 @@
+web:
+    image: navidonskis/nginx-php5.6
+    container_name: web
+    restart: always
+    volumes:
+      -  .:/var/www:rw
+    ports:
+      - "8989:80"
+   
